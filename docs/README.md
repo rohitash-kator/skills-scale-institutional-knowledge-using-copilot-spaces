@@ -20,6 +20,15 @@ Explore the detailed guides below for templates, checklists, and actionable tips
 - [Risks & Communication](./octoacme-risks-and-communication.md)
 - [Release & Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
-- [Roles & Personas](./octoacme-roles-and-personas.md)
+- [Roles & Personas](./octoacme-roles-and-personas.md) - **Updated with new personas!**
+
+## Templates and Checklists
+
+Ready-to-use templates for common project management activities:
+
+- **[Role Onboarding Checklist](./templates/role-onboarding-checklist.md)** - Comprehensive checklist to onboard new team members with access, contacts, and first 30-day objectives
+- **[Change Management Checklist](./templates/change-management-checklist.md)** - Lightweight process for managing scope or process changes with impact analysis and approvals
+- **[Quality Lead Checklist](./templates/quality-lead-checklist.md)** - Release-readiness checklist covering definition of done, test coverage, and quality signoff
+- **[Data Steward Guidelines](./templates/data-steward-guidelines.md)** - Guidance for data quality, data dictionary ownership, and reporting cadence
 
 > Keep this README up to date as docs evolve. Report gaps or improvement ideas via the process doc issue templates in .github/ISSUE_TEMPLATE/.
